@@ -15,9 +15,9 @@
     <inputcomp v-model="value" :max="10" :min="0"></inputcomp>
 
     <tabs v-model="activeKey">
-      <pane label="标签一" name="1">标签一的内容</pane>
-      <pane label="标签二" name="2">标签二的内容</pane>
-      <pane label="标签三" name="3">标签三的内容</pane>
+      <pane label="标签一" name="1">标签一的内容1</pane>
+      <pane label="标签二" name="2">标签二的内容2</pane>
+      <pane label="标签三" name="3">标签三的内容3</pane>
     </tabs>
 
   </div>
